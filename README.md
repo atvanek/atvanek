@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atvanek
-- 👀 I’m interested in learning more about front end web design.
-- 🌱 I’m currently learning HTML and CSS.
+- 👀 I’m interested in learning more about React.
+- 🌱 I’m currently learning all I can about front end development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
