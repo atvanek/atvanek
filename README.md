@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atvanek
 - 👀 I’m interested in learning more about React.
 - 🌱 I’m currently learning all I can about front end development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on e-commerce, social media, and mobile app projects.
 - 📫 How to reach me ...
 
 <!---
